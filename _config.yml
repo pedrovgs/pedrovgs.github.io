@@ -37,6 +37,10 @@ social_media:
   # youtube: your_username
 
 topics:
+  - name: Scala
+    web_url: https://github.com/topics/scala
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/scala/scala.png
+
   - name: Android
     web_url: https://github.com/topics/android
     image_url: https://raw.githubusercontent.com/github/explore/a3520d60fbf9b0bdd0b7d563a1a3ed596acd8489/topics/android/android.png
@@ -53,10 +57,6 @@ topics:
     web_url: https://github.com/topics/reactnative
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/react/react.png
 
-  - name: Scala
-    web_url: https://github.com/topics/scala
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/scala/scala.png
-
   - name: Kotlin
     web_url: https://github.com/topics/kotlin
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/kotlin/kotlin.png    
@@ -68,4 +68,3 @@ topics:
   - name: TypeScript
     web_url: https://github.com/topics/typescript
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/typescript/typescript.png
-

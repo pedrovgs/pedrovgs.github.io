@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 12
   exclude:
     forks: false
     projects:
@@ -31,8 +31,8 @@ social_media:
   # behance: your_username
   # facebook: your_username
   # dribbble: your_username
-  linkedin: https://www.linkedin.com/in/pedrovgs
-  stackoverflow: https://stackoverflow.com/users/3097137/pedro-vicente-g%C3%B3mez-s%C3%A1nchez
+  linkedin: pedrovgs
+  stackoverflow: 3097137
   twitter: pedro_g_s
   # youtube: your_username
 
